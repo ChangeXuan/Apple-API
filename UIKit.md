@@ -1,7 +1,12 @@
 # UIKit
-### Construct and manage a graphical, event-driven user interface for your iOS or tvOS app.
+### 为你的iOS或者tvOS应用构建和管理图形化和设备事件，以便能够使用到应用的用户界面中。
 ## 概述
-The UIKit framework provides the required infrastructure for your iOS or tvOS apps. It provides the window and view architecture for implementing your interface, the event handling infrastructure for delivering Multitouch and other types of input to your app, and the main run loop needed to manage interactions among the user, the system, and your app. Other features offered by the framework include animation support, document support, drawing and printing support, information about the current device, text management and display, search support, accessibility support, app extension support, and resource management.
+UIKit框架为你的iOS或tvOS应用提供所需要的一切基础。
+它提供了窗口和视图结构能够让你很好的去开发你的用户界面，提供了事件处理的基础，并能够很好的去处理在你的应用中多点和其他类型的输入。
+它运行在主线程，主要负责管理用户、系统和应用程序之间交互。
+该框架还支持动画效果，文档，绘图和打印，当前设备的信息，文本的管理和显示，搜索，可访问性，应用的拓展，资源管理。
 
-#### Important
-Use UIKit classes only from your app’s main thread or main dispatch queue, unless otherwise indicated. This restriction particularly applies to classes derived from UIResponder or that involve manipulating your app’s user interface in any way.
+#### 重要事项
+只能在你应用中的主线程或者主队列中使用UIKit，除非另有说明的控件。
+这个限制特别适用于UIResponder的子类或涉及以任何方式操作你应用的用户界面
+
