@@ -1,1 +1,4 @@
-
+# Automator 
+### Develop actions that can be loaded and run by the Automator app. View, edit, and run Automator workflows in your app.
+## 概述
+The Automator framework supports the development of actions for the Automator application, as well as the ability to run a workflow in developer applications. An action is a bundle that, when loaded and run, performs a specific task, such as copying a file or cropping an image. Using Automator, users can construct and execute workflows consisting of a sequence of actions. Developers can also load and execute workflows in their applications. As a workflow executes, the output of one action is typically passed as the input to the next action. Automator loads action bundles from standard locations in the file system: /System/Library/Automator, /Library/Automator, and ~/Library/Automator.
