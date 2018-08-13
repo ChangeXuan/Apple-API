@@ -1,1 +1,4 @@
-
+# Metal Performance Shaders
+### Add low-level and high-performance kernels to your Metal app. Optimize graphics and compute performance with kernels that are fine-tuned for the unique characteristics of each Metal GPU family.
+## 概述
+The Metal Performance Shaders framework contains a collection of highly optimized compute and graphics shaders that are designed to integrate easily and efficiently into your Metal app. These data-parallel primitives are specially tuned to take advantage of the unique hardware characteristics of each GPU family to ensure optimal performance. Apps adopting the Metal Performance Shaders framework can be sure of achieving optimal performance without needing to update their own hand-written shaders for each new GPU family. Metal Performance Shaders can be used along with your app’s existing Metal resources (such as the MTLCommandBuffer, MTLTexture, and MTLBuffer objects) and shaders.
