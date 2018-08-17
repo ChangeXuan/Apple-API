@@ -1,4 +1,4 @@
 # Core Spotlight
-### Index the content in apps that handle persistent user data, such as documents and photos, and let users deep-link to it from Spotlight and Safari search results. Add, update, and delete searchable app content.
+### 在处理持久性用户数据（如文档和照片）的应用程序中索引内容，并让用户与聚光灯和Safari搜索结果进行深层链接。添加、更新和删除可搜索的应用程序内容。
 ## 概述
-The Core Spotlight framework helps your app participate in search by providing ways to index the content within your app (including user-generated content) and manage the on-device index. Use the APIs of the Core Spotlight framework to add, edit, and remove items from the on-device index.
+核心聚光灯框架帮助您的应用程序参与搜索，通过提供方法来索引应用程序内的内容（包括用户生成的内容）和管理设备索引。使用核心聚光灯框架的API来从设备索引中添加、编辑和删除项目。
