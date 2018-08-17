@@ -1,6 +1,8 @@
 # Core Location
-### Obtain the geographic location and orientation of a device.
+### 获取设备的地理位置和方向。
 ## 概述
-Core Location provides services for determining a device’s geographic location, altitude, orientation, or position relative to a nearby iBeacon. The framework uses all available onboard hardware, including Wi-Fi, GPS, Bluetooth, magnetometer, barometer, and cellular hardware to gather data.
-
-The first time that your app requests authorization, its authorization status is indeterminate and the system prompts the user to grant or deny the request (as shown in Figure 1). The system records the user's response and does not display this panel upon subsequent requests.
+Core Location 提供了确定设备的地理位置，高度，方向或者相对于最近的一个iBeacon的方位的服务。
+这个框架实用全部可以使用的板载硬件，包括Wi-Fi，GPS，蓝牙，磁力计，气压计和蜂窝移动数据硬件来收集数据。
+如果你想获得这些信息，那你的应用得在第一时间像用户发出权限的请求，
+在系统提示用户做出是否授权的行为之前，我们所需要的权限状态是不确定的。
+系统会记录用户所做出的选择，并且在后续请求时不显示该面板。
