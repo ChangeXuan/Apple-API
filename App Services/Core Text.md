@@ -1,6 +1,8 @@
 # Core Text
-### 使用高质量的排版来创建文本布局，Ccharacter-to-glyph conversion, and positioning of glyphs in lines and paragraphs. Optimize font handling with automatic font substitution, and get easy access to font metrics and glyph data.
+### 使用高质量的排版来创建文本布局，从字符到字型的转换，到字型在段落中的定位。优化字体处理与自动字体替换，并容易获得字体度量和字形数据。。
 ## 概述
-This collection of documents is the API reference for the Core Text framework. Core Text provides a modern, low-level programming interface for laying out text and handling fonts. The Core Text layout engine is designed for high performance, ease of use, and close integration with Core Foundation. The text layout API provides high-quality typesetting, including character-to-glyph conversion, with ligatures, kerning, and so on. The complementary Core Text font technology provides automatic font substitution (cascading), font descriptors and collections, easy access to font metrics and glyph data, and many other features.
-
-Multicore Considerations: All individual functions in Core Text are thread safe. Font objects (CTFont, CTFontDescriptor, and associated objects) can be used simultaneously by multiple operations, work queues, or threads. However, the layout objects (CTTypesetter, CTFramesetter, CTRun, CTLine, CTFrame, and associated objects) should be used in a single operation, work queue, or thread.
+这个文档的集合是对Core Text框架API的引用说明。
+Core Text为文本布局和处理字体提供了一种现代化的，低层级的编程接口。
+这个Core Text文本布局引擎是朝着高性能，易用性，并与核心框架融为一体的方向去设计的。
+这个文本布局的API提供了高质量的文字排版功能，包括字符向字型的转换，连体字，字与字之间的间距，等等。
+互补核心文本字体技术提供自动字体替换（级联）、字体描述符和集合、字体索引和字形数据的容易访问以及许多其他特征。
