@@ -1,5 +1,5 @@
 # Core Text
-### Create text layouts using high-quality typesetting, character-to-glyph conversion, and positioning of glyphs in lines and paragraphs. Optimize font handling with automatic font substitution, and get easy access to font metrics and glyph data.
+### 使用高质量的排版来创建文本布局，Ccharacter-to-glyph conversion, and positioning of glyphs in lines and paragraphs. Optimize font handling with automatic font substitution, and get easy access to font metrics and glyph data.
 ## 概述
 This collection of documents is the API reference for the Core Text framework. Core Text provides a modern, low-level programming interface for laying out text and handling fonts. The Core Text layout engine is designed for high performance, ease of use, and close integration with Core Foundation. The text layout API provides high-quality typesetting, including character-to-glyph conversion, with ligatures, kerning, and so on. The complementary Core Text font technology provides automatic font substitution (cascading), font descriptors and collections, easy access to font metrics and glyph data, and many other features.
 
