@@ -1,4 +1,4 @@
 # EventKit
-### With permission, access and manipulate the user's calender and remonder data. Monitor changes to the user's Calendar database, and help users create new events.
+### 通过允许，访问，和操作用户的日历和回复数据。可以让用户去改变他们的日历数据，也可以帮助用户去创建新的事件。
 ## 概述
 The EventKit framework provides classes for accessing and manipulating calendar events and reminders.
