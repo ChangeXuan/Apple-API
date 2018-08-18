@@ -1,4 +1,5 @@
 # EventKit
 ### 通过允许，访问，和操作用户的日历和回复数据。可以让用户去改变他们的日历数据，也可以帮助用户去创建新的事件。
 ## 概述
-The EventKit framework provides classes for accessing and manipulating calendar events and reminders.
+EventKit框架提供了一些可以访问和执行日历事件和回复事件的类。
+
