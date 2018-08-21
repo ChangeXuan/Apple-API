@@ -1,4 +1,4 @@
 # FileProvider
-### Implement a File Provider extension so that other apps can access the documents and directories stored and managed b your containing app.
+### 实现文件提供程序扩展，以便其他应用程序可以访问包含和管理B包含的应用程序的文档和目录。
 ## 概述
-If your app is primarily focused on storing and managing user documents, you can implement a File Provider extension to give users access to their content while they're using other apps.
+如果您的应用程序主要集中于存储和管理用户文档，则可以实现文件提供程序扩展，以便用户在使用其他应用程序时访问它们的内容。
