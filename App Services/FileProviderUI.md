@@ -1,4 +1,4 @@
 # FileProviderUI
-### Add actions to the document browser's context menu
+### 向文档浏览器的上下文菜单添加操作
 ## 概述
-Use the File Provider UI extension to add custom actions to your File Provider extension. These actions appear if the user long presses an item while browsing your file provider's content. When the user selects your action, the system displays your custom user interface, where the user completes the action. After the user is finished, you must explicitly cancel or complete the action.
+使用文件提供程序UI扩展程序将自定义操作添加到文件提供程序扩展名中。如果用户在浏览文件提供者的内容时长时间按下一个项目，则会出现这些行为。当用户选择您的动作时，系统显示您的自定义用户界面，用户完成该操作。用户完成后，必须显式取消或完成操作。
