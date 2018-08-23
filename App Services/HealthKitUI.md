@@ -1,4 +1,6 @@
 # HealthKitUI
-### Create and manage HealthKit-specific views and controls.
+### 创建和管理HealthKit特性的视图和控制器。
 ## 概述
-The HealthKitUI framework provides specialized views and controls that work with HealthKit data. Use these views and controls to display HealthKit data in your iOS app.
+HealthKitUI框架提供了特殊的视图和控制器以便我们能够使用HealthKit正确工作。
+在你的iOS应用中使用这些视图和控制器去展示HealthKit数据。
+
