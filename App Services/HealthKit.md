@@ -1,5 +1,5 @@
 # HealthKit
-### Share health and fitness data with other apps, while maintaining the user's privacy and control over their data.
+### 与其他应用共享健康和健身数据，同时保持用户的私密性和能让他们控制自己的数据。
 ## 概述
 HealthKit stores data from apps on iPhone and Apple Watch. It also works directly with some health and fitness devices. In iOS 8.0, the system can automatically save data from compatible Bluetooth LE heart rate monitors. The system can also automatically import activity data from the M7 motion coprocessor, if available. Other devices and data sources must have a companion app that can access the data and save it to HealthKit for them.
 
