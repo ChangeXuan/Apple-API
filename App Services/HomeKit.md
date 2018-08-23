@@ -1,4 +1,4 @@
 # HomeKit
-### Communicate with, configure, and control home automation accessories, including complex camera-type accessories.
+### 与家庭自动化配件通信，配置和控制，包括复杂的相机附件。
 ## 概述
-HomeKit integrates iOS, tvOS, and watchOS devices with home automation accessories, using a device-independent protocol. HomeKit enables your app to coordinate and control accessories from multiple vendors, presenting a coherent, user-focused interface.
+HOMKIT集成了IOS、TVOS和WATCHOS设备，并使用独立于设备的协议与家庭自动化附件。HomeKit使您的应用程序能够协调和控制来自多个供应商的附件，呈现一个连贯的、以用户为中心的界面。
