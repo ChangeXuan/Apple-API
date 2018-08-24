@@ -1,6 +1,6 @@
 # MessageUI
-### Create a user interface for composing email and text messages, so users can edit and send messages without leaving your app.
+### 创建一个用来编写邮件和文本信息的用户界面， 所以用户能够在不离开你的应用的前提下完成邮件信息的编写和发送。
 ## 概述
-The Message UI framework provides specialized view controllers for presenting standard composition interfaces for email and SMS (Short Messaging Service) text messages. Use these interfaces to add message delivery capabilities without requiring the user to leave your app.
+Message UI框架提供了专门的视图控制器，用于呈现电子邮件和SMS（短消息服务）文本消息的标准组合接口。使用这些接口可以在不要求用户离开应用程序的情况下添加消息传递功能。
 
-To display a composition interface, present the corresponding view controller modally from your app. Once presented, the user has the option to customize the contents before sending or canceling the message. Your custom delegate object then handles the dismissal of the view controller based on the user’s action. For information on how to present and dismiss view controllers, see View Controller Programming Guide for iOS.
+若要显示创作界面，请从应用程序中以模式形式呈现相应的视图控制器。一旦这样，用户就有权对之前编写的自定义内容消息进行发送货取消。然后，您的自定义委托对象基于用户的操作处理视图控制器的解散。有关如何呈现和解散视图控制器的信息，请参见IOS的视图控制器编程指南。
