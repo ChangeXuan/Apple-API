@@ -1,4 +1,4 @@
 # IdentityLookup
-### Create an app extension that identifies and filters unwanted SMS and MMS messages while preserving user privacy
+### 在保护用户隐私的前提下，创建一个应用的拓展来识别和过滤一些不需要的SMS和MMS短信。
 ## 概述
-When a user receives an SMS or MMS message from an unknown sender, the Messages app can ask your Message Filter app extension to determine whether the message is unsolicited or otherwise unwanted. Your app extension can make this determination by using its own built-in data and logic or by deferring to analysis done by your associated server.
+当用户接收到一个未知用户的SMS或者MMS信息时， 信息应用会去询问你的消息过滤器应用拓展去决定把该信息定义为未被请求的或者是不需要的。你的应用拓展能够决定去适用应用内建的数据和逻辑去等待你的相关分析服务器完成分析。
