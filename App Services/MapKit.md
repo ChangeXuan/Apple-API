@@ -1,6 +1,10 @@
 # MapKit
-### Display map or satellite imagery directly from your app's interface, call out points of interest, and determine placemark information for map coordinates.
+### 直接让你的应用界面去展示地图或者卫星图像， 标出星期点，并可以从地图坐标中得到标记信息。 
 ## 概述
-Use the MapKit framework to embed maps directly into your own windows and views. You can add annotations and overlays to the map to call out points of interest or user destinations. You can also provide text completion for users typing in the name of a point of interest.
+使用MapKit框架把地图直接嵌入到你应用中的窗口和视图中。
+你能够为用户感兴趣的位置在标出注释或覆盖某些东西。
+你还能够使用用户提供的文本信息来完善地图上用户标出的感兴趣的点。
 
-If your app offers transit directions, you can make your directions available to Maps. You can also use Maps to supplement the directions that you provide in your app. For example, if your app only provides directions for subway travel, you can use Maps to provide walking directions to and from subway stations.
+如果你的应用提供了方向，你能够从地图中获得此时用户的方向。
+您还可以使用地图来补充应用程序中提供的方向。 
+例如，如果你的应用程序只提供地铁旅行的方向，你可以使用地图来提供往返地铁站的步行方向。
