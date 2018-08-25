@@ -1,4 +1,5 @@
 # MultipeerConnectivity
-### Support peer-to-peer connectivity and the discovery of nearby devices.
+### 支持对等连接和能够去发现邻近的设备。
 ## 概述
-The Multipeer Connectivity framework supports the discovery of services provided by nearby devices and supports communicating with those services through message-based data, streaming data, and resources (such as files). In iOS, the framework uses infrastructure Wi-Fi networks, peer-to-peer Wi-Fi, and Bluetooth personal area networks for the underlying transport. In macOS and tvOS, it uses infrastructure Wi-Fi, peer-to-peer Wi-Fi, and Ethernet.
+MultiperConnectivity框架支持发现附近设备提供的服务，并支持通过基于消息的数据与这些服务通信，和资源(如文件)。
+在iOS中，框架使用基础设施Wi-Fi网络、对等Wi-Fi和蓝牙个人区域网络作为底层传输。在MACOS和TVOS中，它使用基础设施Wi-Fi、对等Wi-Fi和以太网。
