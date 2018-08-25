@@ -1,4 +1,4 @@
 # NewsstandKit
-### Create and manage assets for the client side of a Newsstand app. Enable users to browse and download newspapers and magazines, with viewing optimized for mobile devices.
+### 为一个Newsstand应用创建和管理他的客户端的资源。能够让用户用浏览器去下载报纸和杂志，以方便用户在手机设备上去很好的观看它们。
 ## 概述
-You use the Newsstand Kit framework to develop the client side of a Newsstand application. Through the Newsstand, users can browse through newspapers and magazines that are optimized for viewing on mobile devices.
+您可以使用报刊亭工具包框架来开发报刊亭应用程序的客户端。通过报刊亭，用户可以浏览在移动设备上观看的报纸和杂志。
