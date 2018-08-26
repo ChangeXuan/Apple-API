@@ -1,6 +1,6 @@
 # Passkit
-### Request and process Apple Pay payments in your app. Create, distribute, and update passes for the Wallet app.
+### 申请和处理苹果支付在你的应用程序付款。创建，分发和更新钱包应用程序的通行证。
 ## 概述
-The PassKit framework lets you:
-- Add Apple Pay to your app
-- Manage passes in the user's Wallet app
+PassKit框架能够让你完成下列的功能：
+- 添加苹果支付道你的应用。
+- 在用户钱包的应用中管理用户自己的通行证。
