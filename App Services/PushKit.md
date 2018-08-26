@@ -1,15 +1,15 @@
 # PushKit
-### Send push notifications to update your app.
+### 发送推送通知来更新应用程序。
 ## 概述
-The PushKit framework sends specific types of notifications—such as VoIP invitations, watchOS complication updates, and file provider change notifications—directly to your app for processing. (For a complete list of supported notification types, see PKPushType.)
+PushKit框架将特定类型的通知（如VoIP邀请、watchOS复杂性更新和文件提供程序更改通知）直接发送到应用程序进行处理。（对于支持的通知类型的完整列表，请参见PKPushType）。
 
-Unlike user notifications, which are supported by the UserNotifications framework, PushKit notifications are never presented to the user—they don't present badges, alerts, or sounds.
-PushKit notifications offer the following advantages over user notifications:
+与UserNotifications框架支持的用户通知不同，PushKit通知从不呈现给用户——它们不呈现徽章、警报或声音。
+PuthKIT通知与用户通知相比具有以下优点：
 
-- If your app isn't running, the system automatically launches it upon receiving the notification. Although you can also use silent user notifications to update your app in the background, your app isn't guaranteed to launch when a notification arrives. For more information, see Local and Remote Notification Programming Guide.
+- 如果你的应用程序没有运行，系统会在收到通知后自动启动。尽管您也可以使用静默的用户通知在后台更新应用程序，但是应用程序不能保证在通知到达时启动。有关更多信息，请参见本地和远程通知编程指南。
 
-- Your app is given runtime to process the notification, even if it's running in the background.
+- 您的应用程序被赋予运行时来处理通知，即使它在后台运行。
 
-- The device wakes only when it receives a PushKit notification, which can improve battery life.
+- 该设备只有在接收到PuthKIT通知时才会唤醒，这可以提高电池寿命。
 
-- PushKit notifications can include more data than user notifications.
+- PuthKIT通知可以包含比用户通知更多的数据。
