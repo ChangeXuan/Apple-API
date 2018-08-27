@@ -1,5 +1,5 @@
 # Social
-### 让你的应用能够去支持社交网络服务。使用提供的模版去创建一个HTTP请求。Use the provided template to create HTTP requests.
+### 让你的应用能够去支持社交网络服务。使用提供的模版去创建一个HTTP请求。
 ## 概述
 在iOS和macOS，这个框架提供了一个模版去创建一个HTTP请求。仅仅在iOS系统中，Social框架提供了一个通用的接口去为了能让用户提交请求。
 
