@@ -1,16 +1,16 @@
 # Social
-### Integrate your app with supported social networking services. Use the provided template to create HTTP requests.
+### 让你的应用能够去支持社交网络服务。使用提供的模版去创建一个HTTP请求。Use the provided template to create HTTP requests.
 ## 概述
-On iOS and macOS, this framework provides a template for creating HTTP requests. On iOS only, the Social framework provides a generalized interface for posting requests on behalf of the user.
+在iOS和macOS，这个框架提供了一个模版去创建一个HTTP请求。仅仅在iOS系统中，Social框架提供了一个通用的接口去为了能让用户提交请求。
 
-A common way to use this framework is:
+常见的使用该框架的方法有下面几条：
 
-- Create a network session.
+- 创建一个网络会话。
 
-- Get the activity feed for a user.
+- 获取用户的活动反馈。
 
-- Make a new post.
+- 构建一个新的post请求。
 
-- Set properties on a post, add attachments, etc.
+- 在post请求中设置属性和附件。
 
-- Publish a post to an activity feed.
+- 提交post到一个活动源。
