@@ -1,4 +1,6 @@
 # Speech
-### With the user's permission, get recognition of live and prerecorded speech, and receive transcriptions, alternative interpretations, and confidence levels.
+### 取得用户的权限，以便得到现场语音和预先录制好的演讲来进行语音识别并接受转录，替代解释，和置信水平。
 ## 概述
-iOS users are accustomed to using Siri to interact with apps and—when a keyboard is visible—using dictation to capture their speech. The Speech APIs let you extend and enhance the speech recognition experience within your app, without requiring a keyboard.
+iOS的用户通常习惯使用Siri来和应用进行交互(当键盘可见时)使用语音来作为他们的输入。
+该Speech的APIs让你在不请求键盘的情况下，拓展和增强语音识别体验。
+
