@@ -1,8 +1,9 @@
 # SiriKit
-### Handle user requests for your app's services that originate from Siri or Maps.
+### 处理来自你的应用的Siri或者地图的用户请求。
 ## 概述
-SiriKit encompasses the Intents and Intents UI frameworks, which you use to implement app extensions that integrate your services with Siri and Maps. SiriKit supports two types of app extensions:
+SiriKit包含了Intents和Intents UI框架，把你的Siri和Maps作为服务作为你的应用拓展。
+SiriKit支持两种应用拓展：
 
-- An Intents app extension receives user requests from SiriKit and turns them into app-specific actions. For example, the user might ask Siri to send a message, book a ride, or start a workout using your app.
+- 一个Intents应用拓展接收从SiriKit中用户请求并让app作出特定的行为。 例如，用户可能会要求Siri发送消息，预订旅程，或使用您的应用程序开始锻炼。
 
-- An Intents UI app extension displays branding or other customized content in the Siri or Maps interface after your Intents app extension fulfills a user request. Creation of this extension is optional.
+- 一个Intents UI应用拓展在Intents应用程序扩展完成用户请求后，在Siri或Maps界面中显示品牌或其他定制内容。 这个创建选项是可选的。
