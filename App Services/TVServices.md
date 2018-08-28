@@ -1,5 +1,5 @@
 # TVServices
-### Help users discover your app. Add top shelf content and a description of your tvOS app to be displayed on a TV.
+### 帮助用户发现你的应用程序。添加顶部货架内容和您的TVOS应用程序的描述，将显示在电视上。
 ## 概述
 Apps on tvOS often have built-in media content, access media content stored on a remote server, or have other information to display to the user. For example, a weather app might access video files on a server showing the weather in different locals, and have other content items representing ongoing weather alerts. To help users discover this content when your app is not the foreground app, you can highlight your content in the Top Shelf area of the Apple TV main menu. For design guidance, see Top Shelf in tvOS Human Interface Guidelines.
 
