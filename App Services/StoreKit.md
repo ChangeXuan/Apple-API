@@ -6,4 +6,4 @@
 
 - **Apple音乐** 检测出用户Apple音乐库，并提供订阅。
 
-- **建议和评论** Provide recommendations for third-party content and enable users to rate and review your app
+- **建议和评论** 能够为第三方应用内容提供建议和能够让用户在你的应用内评级和评论
