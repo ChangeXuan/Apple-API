@@ -1,10 +1,9 @@
 # StoreKit
-### Support in-app purchases and interactions with the App Store.
+### 支持在应用内与App商店进行交互并完成购买。
 ## 概述
-Using StoreKit in your app, you can provide the following features and services:
+在你的应用中使用StoreKit，你能够提供以下几个特性和服务：
+- **在应用内进行购买** 提供和促进在应用内完成购买的内容和服务。
 
-- **In-App Purchase.** Offer and promote in-app purchases for content and services.
+- **Apple音乐** 检测出用户Apple音乐库，并提供订阅。
 
-- **Apple Music.** Check a user's Apple Music capabilities and offer a subscription.
-
-- **Recommendations and reviews.** Provide recommendations for third-party content and enable users to rate and review your app
+- **建议和评论** Provide recommendations for third-party content and enable users to rate and review your app
