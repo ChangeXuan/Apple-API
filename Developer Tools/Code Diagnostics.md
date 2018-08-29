@@ -1,4 +1,6 @@
 # Code Diagnostics
-### Enable runtime checks to detect and avoid bugs in your code.
+### 使用运行时检查程序，让你能够找到和避免你代码中的一些bug。
 ## 概述
-Xcode provides several code diagnostics tools for you to use when running your app during development. To enable code diagnostics for your app in Xcode, select your app scheme and choose Product > Scheme > Edit Scheme.
+Xcode提供了一些能够在你应用运行和开发过程中需要使用到的一些诊断代码的工具。
+选择你应用中的scheme和选择Product > Scheme > Edit Scheme来运行Xcode自带的一些代码诊断工具。
+
