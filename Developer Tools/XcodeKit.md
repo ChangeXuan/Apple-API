@@ -1,4 +1,4 @@
-# XcodeKit
-### Create extensions to add commands to the Xcode source editor
+# XCodeKit
+### 创建向XCode源编辑器添加命令行的功能扩展
 ## 概述
-Using the XcodeKit framework, you can customize Xcode with source editor extensions to add functionality and specialized behavior to the source editor. Source editor extensions provide a group of editor commands alongside the built-in commands in the Editor menu in Xcode. Source editor extensions can read and modify the contents of a source file, as well as read and modify the current text selection within the editor. Include source editor extensions in developer apps distributed on the Mac App Store.
+使用XCodeKit框架，可以使用源编辑器扩展程序自定义XCode，以向源编辑器添加功能和专门的行为。源编辑器扩展提供了一组编辑器命令，与XCKED编辑器菜单中的内置命令一起。源编辑器扩展可以读取和修改源文件的内容，以及读取和修改编辑器中的当前文本选择。包括在苹果应用商店上发布的开发者应用程序的源编辑器扩展。
