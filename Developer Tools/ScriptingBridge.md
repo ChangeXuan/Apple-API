@@ -1,4 +1,4 @@
 # ScriptingBridge
-### Automate scriptable apps by sending and receiving Apple events.
+### 使用自动化脚本来发送和接受Apple的事件
 ## 概述
-Scripting Bridge is a technology that lets you control scriptable Apple and third-party applications using standard Objective-C syntax. Introduced in OS X version 10.5 (Leopard), the Scripting Bridge framework dynamically implements an Objective-C bridge to OSA-compliant applications—that is, applications having a scripting interface (usually defined in a sdef file). As part of this implementation, it generates Objective-C class implementations of the classes it finds in the scripting interface, including objects and methods representing properties, elements, commands, and so on. The objects are derived from classes defined in the Scripting Bridge framework.
+脚本桥是一种允许您使用标准的Objective-C语法控制可脚本化的苹果和第三方应用程序的技术。 在OS X版本10.5（Leopard）中引入的脚本桥框架动态地实现了到OSA兼容应用程序的Objective-C桥，即具有脚本接口（通常在sdef文件中定义）的应用程序。作为这个实现的一部分，它生成在脚本接口中找到的类的Objective-C类实现，包括表示属性、元素、命令等的对象和方法。对象是从脚本桥框架中定义的类派生的。
