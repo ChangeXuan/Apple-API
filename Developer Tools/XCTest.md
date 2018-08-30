@@ -1,6 +1,7 @@
 # XCTest
-### Create and run unit tests, performance tests, and UI tests for your Xcode project.
+### 创建和运行一个测试单元, 在你的Xcode中进行性能测试和UI测试。
 ## 概述
-Use the XCTest framework to write unit tests for your Xcode projects that integrate seamlessly with Xcode's testing workflow.
+使用XCTest框架为你的Xcode项目编写测试单元，并能够无缝的连接到Xcode的测试工作流中。
+在程序运行过程中某一情况被满足时会触发测试断言功能，如果不满足这些条件，则这个测试被视为失败。
+Tests还能测量出代码块的性能，也能够与应用的界面UI进行交互以验证用户交互流是否正确。
 
-Tests assert that certain conditions are satisfied during code execution, and record test failures (with optional messages) if those conditions are not satisfied. Tests can also measure the performance of blocks of code to check for performance regressions, and can interact with an application's UI to validate user interaction flows.
