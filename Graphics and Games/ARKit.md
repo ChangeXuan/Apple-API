@@ -1,8 +1,11 @@
 # ARKit
-### Integrate iOS device camera and motion features to produce augmented reality experiences in your app or game.
+### 集成iOS设备相机和运动功能，以在您的应用程序或游戏中产生增强现实体验。
 ## 概述
-Augmented reality (AR) describes user experiences that add 2D or 3D elements to the live view from a device's camera in a way that makes those elements appear to inhabit the real world. ARKit combines device motion tracking, camera scene capture, advanced scene processing, and display conveniences to simplify the task of building an AR experience.
-### 重要事项
-ARKit requires an iOS device with an A9 or later processor.
+增强现实（AR）描述了用户体验，该用户体验以某种方式将2D或3D元素添加到来自设备的相机的实时视图中，使得这些元素看起来驻留在真实世界中。ARKit结合了设备运动跟踪、摄像机场景捕获、高级场景处理和显示便利性，从而简化了构建AR体验的任务。
 
-To make your app available only on devices supporting ARKit, use the arkit key in the UIRequiredDeviceCapabilities section of your app's Info.plist. If augmented reality is a secondary feature of your app, use the isSupported property to determine whether the current device supports the session configuration you want to use.
+### 重要事项
+ARKIT需要一个带有A9或更高版本处理器的iOS设备。
+
+
+
+要使应用程序仅在支持ARKit的设备上可用，请使用应用程序Info.plist的UIRequiredDeviceCapabilities部分中的arkit键。如果增强现实是应用程序的次要特性，那么使用isSupported属性来确定当前设备是否支持您要使用的会话配置。
