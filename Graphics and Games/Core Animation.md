@@ -1,4 +1,6 @@
 # Core Animation
-### Render, compose, and animate visual elements.
+### 渲染、合成和动画视觉元素。
 ## 概述
-Core Animation provides high frame rates and smooth animations without burdening the CPU and slowing down your app. Most of the work required to draw each frame of an animation is done for you. You configure a few animation parameters (such as the start and end points) and tell Core Animation to start. Core Animation does the rest, handing most of the work off to dedicated graphics hardware to accelerate rendering.
+核心动画提供高帧率和平滑动画，而不负担CPU和放缓你的应用程序。绘制动画的每一帧所需的大部分工作都是为你完成的。您配置了一些动画参数（如开始和结束点），并告诉核心动画开始。其余的核心动画，把大部分的工作交给专用的图形硬件来加速渲染。
+
+
