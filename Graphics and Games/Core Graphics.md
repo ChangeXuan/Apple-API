@@ -1,6 +1,6 @@
 # Core Graphics
-### Harness the power of Quartz technology to perform lightweight 2D rendering with high0fidelity output.Handle path-based drawing, anti-aliased rendering, gradients, images, color management, PDF documents, and more.
+### 利用Quartz技术的强大功能进行轻量级的2D渲染，输出高保真度。处理基于路径的绘制、抗锯齿渲染、梯度、图像、颜色管理、PDF文档等等。
 ## 概述
-The Core Graphics framework is based on the Quartz advanced drawing engine. It provides low-level, lightweight 2D rendering with unmatched output fidelity. You use this framework to handle path-based drawing, transformations, color management, offscreen rendering, patterns, gradients and shadings, image data management, image creation, and image masking, as well as PDF document creation, display, and parsing.
+核心图形框架是基于石英高级绘图引擎。它提供低级别、轻量级的2D渲染，具有不匹配的输出保真度。您使用此框架来处理基于路径的绘图、转换、颜色管理、屏幕外渲染、模式、渐变和阴影、图像数据管理、图像创建和图像屏蔽，以及PDF文档创建、显示和解析。
 
-In macOS, Core Graphics also includes services for working with display hardware, low-level user input events, and the windowing system.
+在MacOS中，核心图形还包括用于处理显示硬件、低级用户输入事件和窗口系统的服务。
