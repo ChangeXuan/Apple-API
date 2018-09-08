@@ -1,4 +1,4 @@
 # Core Image
-### Use built-in or custom filters to process still and video images.
+### 使用内置或自定义过滤器处理静态和视频图像。
 ## 概述
-Core Image is an image processing and analysis technology that provides high-performance processing for still and video images. Use the many built-in image filters to process images, and build complex effects by chaining filters. For details, see Core Image Filter Reference.
+核心图像是一种为静止图像和视频图像提供高性能处理的图像处理和分析技术。使用许多内置的图像过滤器来处理图像，并通过链接过滤器来构建复杂的效果。有关详细信息，请参见核心图像过滤器引用。
