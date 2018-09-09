@@ -1,4 +1,4 @@
 # GLKit
-### Speed up OpenGL ES or OpenGL app development. Use math libraries, background texture loading, pre-created shader effects and a standard view and view controller to implement your rendering loop.
+### 加快OpenGL ES或OpenGL应用程序的开发。使用数学库、背景纹理加载、预先创建的着色效果和标准视图和视图控制器来实现渲染循环。
 ## 概述
-The GLKit framework provides functions and classes that reduce the effort required to create new shader-based apps or to port existing apps that rely on fixed-function vertex or fragment processing provided by earlier versions of OpenGL ES or OpenGL.
+GLKit框架提供了减少创建新的基于着色器的应用程序或移植现有应用程序所需的工作的功能和类，这些应用程序依赖于OpenGL ES或OpenGL早期版本提供的固定功能顶点或片段处理。
