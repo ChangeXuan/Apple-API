@@ -1,4 +1,4 @@
 # GameplayKit
-### Architect and organize your game logic. Incorporate common gameplay behaviors such as random number generation, artificial intelligence,pathfinding, and agent behavior.
+### 设计和规划你的游戏逻辑。 结合常见的游戏行为，如随机数生成，人机智能，自动寻路和一些代理行为
 ## 概述
-GameplayKit is an object-oriented framework that provides foundational tools and technologies for building games. GameplayKit includes tools for designing games with functional, reusable architecture, as well as technologies for building and enhancing gameplay features such as character movement and opponent behavior.
+GamePlayKit是一个面向对象的游戏框架，它提供了一些基础的工具以及需要的技术来使你开发游戏变得简单。GameplayKit包括用于设计具有功能性、可重用架构的游戏的工具，以及用于构建和增强游戏特性（如角色移动和对手行为）的技术。
