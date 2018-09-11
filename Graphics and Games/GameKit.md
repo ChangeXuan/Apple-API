@@ -1,4 +1,4 @@
 # GameKit
-### Create experiences that keep players coming back to your game.Add leaderboards, chievements, matchmaking, challenges, and more.
+### 通过增加增加排行榜、游戏、配对、挑战等等来保持游戏玩家的乐趣。
 ## 概述
-GameKit offers features that you can use to create great social games
+GameKit所提供的特性让你能够创建出一个大型的社交游戏。
