@@ -1,4 +1,6 @@
 # Image I/O
-### Read and write most image file formats. Manage color and access image metadata.
+### 对大多数常见格式的图片文件进行读取和写入。管理颜色以及能够访问图片的元数据
 ## 概述
-The Image I/O programming interface framework allows applications to read and write most image file formats. This framework offers high efficiency, color management, and access to image metadata.
+Image I/O编程接口框架运行应用程序去对一般格式的图片进行读取和写入。该框架提供高效率、色彩管理和对图像元数据的访问。
+
+
