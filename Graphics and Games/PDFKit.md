@@ -1,2 +1,2 @@
 # PDFKit
-### Display and manipulate PDF documents in your applications.
+### 这个框架能够让你能够在你的应用中展示和操作PDF文档
