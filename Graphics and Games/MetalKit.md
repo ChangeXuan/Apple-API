@@ -1,2 +1,2 @@
 # MetalKit
-### Build Metal apps quicker and easier, using far less code. Render graphics in a standard Metal view, load textures from many sources, and work efficiently with models provided by Model I/O
+### 使用更少的代码去快速和方便的去构建一个Metal应用。 在标准Metal视图中绘制图形，从多个源加载纹理，并通过模型I/O提供的模型高效地工作
