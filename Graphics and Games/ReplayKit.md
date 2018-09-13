@@ -1,4 +1,5 @@
 # ReplayKit
-### Record or stream video from the screen, and audio form the app and microphone
+### 记录屏幕中的流视频以及获取应用内的声音和麦克风读取的到音频。
 ## 概述
-Using the ReplayKit framework, users can record video from the screen, and audio from the app and microphone. They can then share their recordings with other users through email, messages, and social media. You can build app extensions for live broadcasting your content to sharing services. ReplayKit is incompatible with AVPlayer content.
+使用ReplayKit框架，你能够记录下屏幕的流视频以及应用程序内发出的声音以及麦克风的音频信息。他们能够使用电子邮箱，messages信息和社交媒体来分析他们刚刚录制到的媒体信息。 您可以构建应用程序扩展来现场直播您的内容以共享服务。ReplayKit与AVPlayer不兼容。
+
