@@ -1,4 +1,5 @@
 # Model I/O
-### Import, export, and manipulate 3D models using a common infrastructure that integrates MetalKit, GLKit, and SceneKit.
+### 使用一个常见的基础结构利用MetalKit，GLKit和SceneKit来完成对3D模型的导入导出以及相关的操作
 ## 概述
-The Model I/O framework provides a system-level understanding of 3D model assets and related resources. You can use this framework to import and export assets from and to a variety of industry standard file formats supported by popular authoring tools and game engines. You can also use Model I/O to generate or process model and texture data—for example, to create subdivision surfaces, to bake ambient occlusion textures, or to generate light probes. Model I/O can share data buffers with the MetalKit, GLKit, and SceneKit frameworks to help you load, process, and render 3D assets efficien
+模型I/O框架为3D模型资产和相关资源提供了系统级的理解。您可以使用这个框架来导入和导出由流行的编辑工具和游戏引擎支持的各种行业标准文件格式的资产。您还可以使用模型I/O来生成或处理模型和纹理数据，例如，创建细分表面、烘焙环境遮挡纹理或生成光探针。模型I/O可以与MetalKit、GLKit和SceneKit框架共享数据缓冲区，以帮助您高效地加载、处理和呈现3D资产
+
