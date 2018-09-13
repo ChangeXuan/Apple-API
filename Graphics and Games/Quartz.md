@@ -1,4 +1,5 @@
 # Quartz
-### ALlow users to browse, edit, and save images, using slideshows and Core Image filters.
+### 允许用户浏览、编辑和保存图像，使用幻灯片和核心图像过滤器。
 ## 概述
-This collection of documents provides the API reference for the Quartz framework; in particular, for Quartz Composer, ImageKit, and PDFKit. The Quartz Composer API supports processing and rendering graphical data and allows developers to create custom patches for the Quartz Composer developer tool. ImageKit provides user interface support for browsing, editing, and saving images, showing slideshows, and browsing and previewing Core Image filters. PDFKit is a technology that allows applications to display and manipulate PDF documents
+该文档集合提供了Quartz框架的参考使用的API；特别对于Quartz设计者, ImageKit,和PDFKit. Quartz Composer API支持处理和呈现图形数据，并允许开发人员为Quartz Composer开发人员工具创建自定义补丁。 ImageKit提供用户界面支持，用于浏览、编辑和保存图像、显示幻灯片以及浏览和预览核心图像过滤器。 PDFKIT是一种允许应用程序显示和操作PDF文档的技术。
+
