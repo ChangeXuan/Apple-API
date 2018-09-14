@@ -1,4 +1,10 @@
 # SpriteKit
-### Create 2D sprite-based games using an optimized animation system, physics simulation, and event-handling support.
+### 使用优化的动画系统、物理模拟和事件处理支持来创建2D基于精灵的游戏。
 ## 概述
-SpriteKit is a graphics rendering and animation infrastructure that you can use to animate arbitrary textured images, otherwise known as sprites. SpriteKit provides a traditional rendering loop that alternates between determining the contents of and rendering frames. You determine the contents of the frame and how those contents change. SpriteKit does the work to render that frame efficiently using graphics hardware. SpriteKit is optimized for applying arbitrary animations or changes to your content. This design makes SpriteKit more suitable for games and apps that require flexibility in how animations are handled.
+SpriteKit是一个图形渲染和动画基础框架，您可以使用它来对任意的纹理图像进行动画效果的设计，通常它也别称为精灵。
+SpriteKit提供了一个传统渲染循环，并在固定帧和渲染帧之间进行交替。
+您确定框架的内容以及这些内容是如何变化的。
+SpriteKit使用图形硬件来有效的渲染每一个需要渲染的帧。
+SpriteKit可以对任意的动画或者内容信息修改。
+这种设计使SpriteKit更适合于在动画如何处理方面需要灵活性的游戏和应用程序。
+
