@@ -1,2 +1,2 @@
 # Vision
-### Apply high-performance image analysis and computer vision techniques to identify faces, detect features, and classify scenes in images and video.
+### 应用高性能的图像分析和计算机视觉技术来识别人脸，检测特征，并对图像和视频中的场景进行分类。
