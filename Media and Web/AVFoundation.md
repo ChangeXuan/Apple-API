@@ -1,4 +1,6 @@
 # AVFoundation
-### Work with audiovisual assets, control device cameras, process audio, and configure system audio interactions.
+### 使用视听资产，控制设备相机，处理音频，并配置系统音频交互。
 ## 概述
-The AVFoundation framework combines four major technology areas that together encompass a wide range of tasks for capturing, processing, synthesizing, controlling, importing and exporting audiovisual media on Apple platforms.
+AVFoundation框架结合了四个主要技术领域，它们共同涵盖了用于在苹果平台上捕获、处理、合成、控制、导入和导出视听媒体的广泛任务。
+
+
