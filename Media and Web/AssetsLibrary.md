@@ -1,8 +1,7 @@
 # AssetsLibrary
-### Access the assets in a user's media library.
+### 访问用户媒体库中的资源
 ## 概述
-You use the Assets Library framework to access the pictures and videos managed by the Photos applicatio
+您可以使用资源库框架来访问照片应用程序管理的图片和视频。
 ## 重要事项
-```
-The Assets Library framework is deprecated as of iOS 9.0. Instead, use the Photos framework instead, which in iOS 8.0 and later provides more features and better performance for working with a user’s photo library. 
-```
+资源库框架被称为IOS 9。取而代之的是，使用Photos框架，在iOS 8.0以及以后的版本中，它为使用用户的照片库提供了更多的特性和更好的性能。
+
