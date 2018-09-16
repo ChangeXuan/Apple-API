@@ -1,4 +1,4 @@
 # AVKit
-### Create view-level services for media playback, complete with user controls, chapter navigation, and support for subtitles and closed captioning.
+### 创建用于媒体播放的视图级服务，包括用户控件、章节导航以及对字幕和关闭字幕的支持。
 ## 概述
-The AVKit framework provides a high-level interface for playing video content
+AVKIT框架提供了一个播放视频内容的高级接口
