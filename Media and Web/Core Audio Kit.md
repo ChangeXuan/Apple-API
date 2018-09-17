@@ -1,4 +1,4 @@
 # Core Audio Kit
-### Add user interfaces to audio units
+### 向音频单元添加用户界面
 ## 概述
-The Core Audio Kit framework provides an Objective-C interface you can use to add user interfaces to Cocoa audio units.
+核心音频工具包框架提供了Objy-C接口，您可以使用它来添加用户接口到可可音频单元。
