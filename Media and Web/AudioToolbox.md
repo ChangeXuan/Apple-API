@@ -1,4 +1,4 @@
 # AudioToolbox
-### Record or play audio, convert formats, parse audio streams, and configure your audio session.
+### 录制或播放音频，转换格式，解析音频流，配置音频会话。
 ## 概述
-The Audio Toolbox framework provides interfaces for recording, playback, and stream parsing. In iOS, the framework provides additional interfaces for managing audio sessions.
+音频工具箱框架提供了用于记录、回放和流解析的接口。在IOS中，框架提供了用于管理音频会话的附加接口。
