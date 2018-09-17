@@ -1,8 +1,6 @@
 # AudioUnit
-### Add sophisticated audio manipulation and processing capabilities to your app. Create audio unit extensions that generate or modify audio in a host app.
+### 将复杂的音频操作和处理能力添加到应用程序中。创建音频单元扩展，生成或修改主机应用程序中的音频。
 ## 概述
-The Audio Unit framework provides interfaces for hosting either version 2 or version 3 audio units and implementing version 3 audio processing plug-ins known as Audio Unit extensions. Developers implementing version 3 audio units should subclass the AUAudioUnit class.
-
-Version 3 Audio Unit extensions can be used on iOS, tvOS, and macOS by host apps and distributed via the App Store.
+音频单元框架提供用于托管版本2或版本3音频单元的接口，以及实现版本3音频处理插件（称为音频单元扩展）。实现版本3音频单元的开发人员应该对AudioNoIT类进行子类。
 
 
