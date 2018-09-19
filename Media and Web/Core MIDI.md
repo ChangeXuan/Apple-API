@@ -1,4 +1,5 @@
 # Core MIDI
-### Communicate with MIDI devices such as hardware keyboards and synthesizers
+### 与MIDI设备如音乐键盘和合成器建立通信
 ## 概述
-The Core MIDI framework provides APIs for communicating with MIDI (Musical Instrument Digital Interface) devices, including hardware keyboards and synthesizers. Connect from an iOS device using the dock connector or a network. For more information about using the dock connector, see Apple’s MFi program.
+核心MIDI框架提供了用于与MIDI（乐器数字接口）设备通信的API，包括硬件键盘和合成器。 使用坞连接器或网络从iOS设备连接。有关使用坞连接器的更多信息，请参见苹果的MFI程序。
+
