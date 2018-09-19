@@ -1,4 +1,7 @@
 # Core Audio
-### Use specialized data types to interact with audio streams, complex buffers, and audiovisual timestamps.
+### 使用专门的数据类型与音频流、复杂缓冲区和视听时间戳交互。
 ## 概述
-The Core Audio framework (which is not an umbrella framework for the other services in Core Audio, but rather a peer) declares data types and constants used by other Core Audio interfaces. This framework also includes a handful of convenience functions.
+Core Audio框架（它不是Core Audio中其他服务的伞形框架，而是对等体）声明其他Core Audio接口使用的数据类型和常量。
+该框架还包括少量便利功能。
+
+
