@@ -1,4 +1,10 @@
 # Core Video 
-### Process digital video--including manipulation of individual frames--using a pipeline-based API and support for both Metal and OpenGL
+### 处理数字视频——包括对单个帧的操作——使用基于流水线的API和对Metal和OpenGL的支持
 ## 概述
-Core Video provides a pipeline model for digital video. It simplifies working with video by partitioning the process into discrete steps. This makes it easier for developers to access and manipulate individual frames without having to worry about translating between data types or display synchronization issues. Apps that don't need to manipulate individual video frames should never need to use Core Video directly.
+Core Video 提供了一个适用与数字视频的管线模型。
+通过将过程分割成离散的步骤，简化了对视频处理的相关工作。
+ 这使得开发人员更容易访问和操作单个帧，而不必担心数据类型之间的转换或显示同步问题。
+
+ 不需要操作单个视频帧的应用程序不需要直接使用核心视频。
+
+
