@@ -1,6 +1,11 @@
 # Media Player
-### Add the ability to find and play songs, audio podcasts, audio books, and more from within your app.
+### 添加从你的应用程序中找到和播放歌曲、音频播客、音频书籍等等的能力。
 ## 概述
-The Media Player framework provides developers with several ways to play media. Built-in music players provide an easy way to access and play audio from the user's music library in your app. External music players can also retrieve and play media items from the user's music library. To enable users to play videos containing MPMediaItem objects, use AVPlayer. You cannot play video media items using the Media Player framework.
+媒体播放器框架为开发人员提供了几种播放媒体的方式。内置的音乐播放器提供了一个简单的方式来访问和播放音频从用户的音乐库在您的应用程序。 外部音乐播放器还可以从用户的音乐库中检索和播放媒体项目。
+为了让用户播放包含MPITEAIAL对象的视频，使用avPoPE。不能使用媒体播放器框架播放视频媒体项目。
+
+
 ### 重要事项
-Starting in iOS 10, accessing a user's media library requires the user's consent. Add the Privacy - Media Library Usage Description key and a description of the key to the app's Info.plist file. Your app will crash if this key is not added to the project.
+从IOS 10开始，访问用户的媒体库需要用户的同意。添加隐私-媒体库使用说明键和应用程序的信息。如果这个密钥不被添加到项目中，你的应用程序就会崩溃。
+
+
