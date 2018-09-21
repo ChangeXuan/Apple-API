@@ -1,4 +1,5 @@
 # JavaScriptCore
-### Evaluate JavaScript programs from within an app, and support JavaScript scripting of your app.
+### 在你的app内执行js程序，也支持在你的app内对js进行编写。
 ## 概述
-The JavaScriptCore Framework provides the ability to evaluate JavaScript programs from within Swift, Objective-C, and C-based apps. You can use also use JavaScriptCore to insert custom objects to the JavaScript environment.
+JavaScriptCore框架提供了从SWIFT、Objul-C和基于C的应用程序中执行JavaScript程序的能力。您还可以使用JavaScript内核将自定义对象插入到JavaScript环境中。
+
