@@ -1,4 +1,5 @@
 # Photos 
-### Work with image and video assets managed by the Photos app, including those from iCloud Photo Library and Live Photos. Fetch and cache full-size assets or thumbnails asynchronously, revise content, and sync revisions to multiple devices.
+### 与照片和视频资产管理的照片应用程序，包括那些来自iCloud照片库和现场照片。
+异步获取和缓存完整大小的资产或缩略图，修改内容，并将修订同步到多个设备。
 ## 概述
-In iOS and macOS, the Photos framework provides classes that support building photo editing extensions for the Photos app. In iOS and tvOS, the Photos framework also provides direct access to the photo and video assets managed by the Photos app, including the iCloud Photo Library. Use this framework to retrieve assets for display and playback, edit their image or video content, or work with collections of assets such as albums, moments, and iCloud Shared Albums.
+在IOS和MaOS中，照片框架提供支持照片应用程序的照片编辑扩展的类。 在iOS和tvOS中，Photos框架还提供了对Photos应用程序管理的照片和视频资产的直接访问，包括iCloud Photo Library。使用这个框架来检索用于显示和回放的资产、编辑它们的图像或视频内容，或者使用诸如相册、瞬间和iCloud共享相册之类的资产集合。
