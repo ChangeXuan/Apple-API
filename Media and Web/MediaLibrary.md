@@ -1,6 +1,6 @@
 # MediaLibrary
-### Access read-only collections of the user's multimedia content.
+### 只读访问用户多媒体内容的集合。
 ## 概述
-The Media Library framework provides a read-only Objective-C data model representing a user’s collections of images, audio, and video. The initial access point of the Media Library framework is MLMediaLibrary, which loads the user’s media into a hierarchical structure consisting of media sources, groups, and objects.
+Media Library框架提供了只读Objective-C数据模型，表示用户的图像、音频和视频集合。Media Library框架的初始访问点是MLMediaLibrary，它将用户的媒体加载到由媒体源、组和对象组成的分层结构中。
 
-At the highest level, all content within a media library instance is categorized by media source. Conceptually, a media source respresents a single app, such as iTunes or Aperture. Each source contains a hierarchy of media groups that originates from a root group. These groups consist of media objects—individual files containing a piece of media such as a photo, song, or movie. Only one copy of each object exists within a media library instance, but an object can be referenced by multiple groups from a single source. The structure of the group hierarchy is specific to each media source.
+在最高级别，媒体库实例中的所有内容都由媒体源分类。概念上，媒体源重置单个应用程序，例如iTunes或光圈。每个源包含源自根组的媒体组的层次结构。这些组由媒体对象组成，单个文件包含一张媒体，例如照片、歌曲或电影。媒体库实例中仅存在每个对象的一个副本，但是对象可以由来自单个源的多个组引用。组层次结构对于每个媒体源是特定的。
