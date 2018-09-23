@@ -1,4 +1,4 @@
 # ScreenSaver
-### Animate screen savers, and interact with the screen saver infrastructure. Use functions that help your produce random values and centering rectangles.
+### 动画屏幕保护程序，并与屏幕保护程序基础设施交互。使用函数可以帮助生成随机值并对矩形进行定心。
 ## 概述
-The Screen Saver framework defines the interface for subclasses to interact with the Screen Effects user interface feature. Screen Effects modules need to be written in Objective-C with its user interface implemented using Cocoa.
+屏幕保护框架定义了子类与屏幕效果用户界面特征交互的接口。屏幕效果模块需要用Objto-C编写，其用户界面使用COCOA实现。
