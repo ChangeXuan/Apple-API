@@ -1,4 +1,4 @@
 # Photos UI
-### Create custom extensions for editing photo, video, and Live Photos content in the Photos app. Add views to your app to display Live Photos content interactively.
+### 创建自定义扩展，用于编辑照片应用程序中的照片、视频和实时照片内容。添加视图到您的应用程序，以交互方式显示现场照片内容。
 ## 概述
-The Photos UI framework provides user interface features related to the Photos framework (in iOS, tvOS, and macOS) and support for creating photo editing extensions for the Photos app (in iOS and macOS).
+Photos UI框架提供了与Photos框架相关的用户界面特性（在iOS、tvOS和macOS中），并且支持为Photos应用程序（在iOS和macOS中）创建照片编辑扩展。
