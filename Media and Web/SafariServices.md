@@ -1,14 +1,14 @@
 # SafariServices
-### Enable web views and services in your app.
+### 在应用程序中启用Web视图和服务。
 ## 概述
-Use the Safari Services framework to integrate Safari behaviors into your iOS or macOS app or to extend the behavior of Safari. You can:
+使用Safari服务框架将Safari行为集成到iOS或MACOS应用程序中，或者扩展Safari的行为。你可以：
 
-- Provide a user interface that is almost identical to the user interface provided by the Safari app. Users can browse the web in this view and then return to your app’s content. This view is more consistent with the Safari user interface than implementing your own custom browsing solution and can be done using fewer lines of code. (iOS)
+- 提供与Safari应用程序提供的用户界面几乎相同的用户界面。用户可以在这个视图中浏览Web，然后返回到应用程序的内容。这个视图比实现您自己的定制浏览解决方案更符合Safari用户界面，并且可以使用更少的代码行来完成。（iOS）
 
-- Add items to the user’s Safari Reading List. (iOS)
+- 将项目添加到用户的Safari阅读列表中。 (iOS)
 
-- Determine from your app whether your content blocker extension is loaded, and if it is, tell it to refresh its contents. (iOS and macOS)
+- 从应用程序中确定是否加载了内容阻止扩展插件，如果是，请告诉它刷新内容。(iOS and macOS)
 
-- Implement Safari app extensions. Determine from your app whether a Safari app extension is loaded. (macOS)
+- Safari扩展实现的应用程序。确定应用程序是否已经从你的应用程序的扩展是Safari加载。 (macOS)
 
-- Allows the user to share cookies and website data between an app and Safari for a single sign-on (SSO) experience with SFAuthenticationSession.
+- 允许用户在应用程序和SFAuthenticationSession之间共享cookie和网站数据，以获得单点登录（SSO）体验。
