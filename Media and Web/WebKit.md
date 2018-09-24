@@ -1,6 +1,6 @@
 # WebKit
-### Display web content in windows. Implement browser features such as following user-activated links, managing a back-forward list, and managing a history of recently visited pages.
+### 在窗口中显示Web内容。实现浏览器特性，例如跟踪用户激活的链接、管理反向列表以及管理最近访问的页面的历史。
 ## 概述
-WebKit provides a set of classes to display web content in windows, and implements browser features such as following links when clicked by the user, managing a back-forward list, and managing a history of pages recently visited. WebKit greatly simplifies the complicated process of loading webpages—that is, asynchronously requesting web content from an HTTP server where the response may arrive incrementally, in random order, or partially due to network errors. WebKit also simplifies the process of displaying that content which can contain various MIME types, and compound frame elements each with their own set of scroll bars.
+WebKit提供一组类以在Windows中显示Web内容，并实现浏览器特性，例如当用户单击时遵循链接、管理反向列表以及管理最近访问的页面的历史。WebKit极大地简化了加载网页的复杂过程——即，从HTTP服务器异步请求web内容，响应可能以增量、随机顺序或部分由于网络错误而到达。WebKit还简化了显示包含各种MIME类型和复合框架元素的内容的过程，每个元素都有自己的滚动条集。
 ### 重要事项
-Call WebKit functions and methods only from your app's main thread or main dispatch queue.
+只从应用程序的主线程或主调度队列调用WebKIT功能和方法
