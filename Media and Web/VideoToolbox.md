@@ -1,4 +1,4 @@
 # VideoTOolbox
-### Work directly with hardware-accelerated video encoding and decoding capabilities.
+### 直接与硬件加速视频编码和解码能力。
 ## 概述
-VideoToolbox is a low-level framework that provides direct access to hardware encoders and decoders. It provides services for video compression and decompression, and for conversion between raster image formats stored in CoreVideo pixel buffers. These services are provided in the form of session objects (compression, decompression, and pixel transfer), which are vended as Core Foundation (CF) types. Apps that don't need direct access to hardware encoders and decoders should not need to use VideoToolbox directly.
+视频工具箱是一个低级别的框架，它提供对硬件编码器和解码器的直接访问。它提供视频压缩和解压缩服务，以及在CoreVideo像素缓冲器中存储的光栅图像格式之间的转换。这些服务以会话对象（压缩、解压缩和像素传输）的形式提供，这些对象被交换为核心基础（CF）类型。不需要直接访问硬件编码器和解码器的应用程序不需要直接使用VooToobox。
